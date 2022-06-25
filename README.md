@@ -8,7 +8,7 @@
 . cd myblog
 <br/>
 
-Una vez adentro del proyecto, renombrar el archivo .env.example a    <span>  .env<span/>
+Una vez adentro del proyecto, renombrar el archivo .env.example a    <span>  <b> .env<b/><span/>
 <br/>
 <br/>
 
