@@ -13,6 +13,7 @@ a  .env
 2.- Instalar los paquetes
 . composer update
 . php artisan passport:install
+
 . php artisan vendor:publish --tag=passport-config
 . php artisan key:generate
 . php artisan config:cache
