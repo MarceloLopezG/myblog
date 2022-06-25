@@ -11,6 +11,8 @@
 Una vez adentro del proyecto, renombrar el archivo .env.example
 a  .env
 <br/>
+<br/>
+
 2.- Instalar los paquetes
 <br/>
 . composer update
