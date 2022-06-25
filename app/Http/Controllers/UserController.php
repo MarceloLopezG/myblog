@@ -80,7 +80,7 @@ class UserController extends Controller
         $user->delete();
 
         $response = 'Deleted Successed!';
-        return response($response, 422);
+        return response($response, 200);
     }
 
     public function user_index()
